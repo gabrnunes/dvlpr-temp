@@ -16,9 +16,8 @@ export default function Home() {
 
       <main className={styles.main}>
         <Image src='/logo.png' alt='DVLPR' width={150} height={48} />
-        <p>
-          Nossa estará no evento presencial Codecon Summit 2025, voltaremos com nosso estoque na loja virtual em breve.
-        </p>
+        <p>Nossa estará no evento presencial Codecon Summit 2025</p>
+        <p>Voltaremos com nosso estoque na loja virtual em breve.</p>
       </main>
     </div>
   );
